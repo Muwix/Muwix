@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Robin and I'm a student, from Nederland</p>
+<p align="left">My name is Robin and I'm a student, from The Netherlands</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Nothing!<br>🎯 Goals: Make a server to automate my finances.<br>🎲 Fun fact: I am dyslexic.</p>
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning in offensive security!<br>🎯 Goals: Make a server to automate my finances<br>🎲 Fun fact: I am dyslexic.</p>
 
 ###
 
