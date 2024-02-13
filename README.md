@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Robin and I'm a student, from The Netherlands</p>
+<p align="left">My name is Robin and I'm a student from the Netherlands</p>
 
 ###
 
