@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/@robinvanpelt2" target="blank"><img src="https://img.shields.io/twitter/follow/@robinvanpelt2?logo=twitter&style=for-the-badge" alt="@robinvanpelt2" /></a> </p>
 
-- 🔭 I’m currently working on **Finance system**
+- 🔭 I’m currently working on a **Finance system**
 
 - 🌱 I’m currently learning **A lot.**
 
